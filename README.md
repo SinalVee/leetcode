@@ -1,2 +1,2 @@
 # leetcode
-Leetcode solutions
+开个坑，刷题，总结。
