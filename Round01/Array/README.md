@@ -1,4 +1,5 @@
 # Array
+* [1. Two Sum](./1.md)
 * [26. Remove Duplicates from Sorted Array](./26.md)
 * [27. Remove Element](./27.md)
 * [66. Plus One](./66.md)
