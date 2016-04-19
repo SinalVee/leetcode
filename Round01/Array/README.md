@@ -3,6 +3,7 @@
 * [26. Remove Duplicates from Sorted Array](./26.md)
 * [27. Remove Element](./27.md)
 * [66. Plus One](./66.md)
+* [88. Merge Sorted Array](./88.md)
 * [118. Pascal's Triangle](./118.md)
 * [119. Pascal's Triangle II](./119.md)
 * [189. Rotate Array](./189.md)
