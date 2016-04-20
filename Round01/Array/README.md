@@ -8,4 +8,5 @@
 * [119. Pascal's Triangle II](./119.md)
 * [189. Rotate Array](./189.md)
 * [217. Contains Duplicate](./217.md)
+* [219. Contains Duplicate II](./219.md)
 * [228. Summary Ranges](./228.md)
