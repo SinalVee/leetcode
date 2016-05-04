@@ -1,4 +1,8 @@
-# Array
+# 第一遍
+按类型，从Easy到Hard。  
+使用`javascript`。
+
+## Array
 * [1. Two Sum](./1.md)
 * [26. Remove Duplicates from Sorted Array](./26.md)
 * [27. Remove Element](./27.md)
@@ -6,6 +10,7 @@
 * [88. Merge Sorted Array](./88.md)
 * [118. Pascal's Triangle](./118.md)
 * [119. Pascal's Triangle II](./119.md)
+* [169. Majority Element](./169.md)
 * [189. Rotate Array](./189.md)
 * [217. Contains Duplicate](./217.md)
 * [219. Contains Duplicate II](./219.md)
