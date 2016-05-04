@@ -10,6 +10,7 @@
 * [88. Merge Sorted Array](./88.md)
 * [118. Pascal's Triangle](./118.md)
 * [119. Pascal's Triangle II](./119.md)
+* [121. Best Time to Buy and Sell Stock](./121.md)
 * [169. Majority Element](./169.md)
 * [189. Rotate Array](./189.md)
 * [217. Contains Duplicate](./217.md)
